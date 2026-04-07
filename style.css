@@ -12,6 +12,11 @@ body {
     height: 100vh;
 }
 
+h2{
+    text-align: center;
+    margin : 5px;
+}
+
 .container {
     background: white;
     padding: 25px;
